@@ -16,7 +16,7 @@ def monopoly_with_second_tier
   monopoly = {
     railroads: {
       pieces: 4,
-      names:{},
+      names: {},
       rent_in_dollars: {}
     }
   }
@@ -38,7 +38,7 @@ def monopoly_with_third_tier
         :b_and_o_railroad => {},
         :shortline => {}
       },
-      :one_peice_owned => 25,
+        :one_peice_owned => 25,
         :two_peice_owned => 50,
         :three_peice_owned => 100,
         :four_peice_owned => 200
