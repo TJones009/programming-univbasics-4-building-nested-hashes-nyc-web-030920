@@ -39,10 +39,10 @@ def monopoly_with_third_tier
         shortline: {}
       },
       rent_in_dollars: {
-        one_peice_owned: 25,
-        two_peice_owned: 50,
-        three_peice_owned: 100,
-        four_peice_owned: 200
+        one_peice_owned => 25,
+        two_peice_owned => 50,
+        three_peice_owned => 100,
+        four_peice_owned => 200
       }
     }
   }
@@ -73,10 +73,10 @@ def monopoly_with_fourth_tier
         }
       },
       rent_in_dollars: {
-        one_peice_owned: 25,
-        two_peice_owned: 50,
-        three_peice_owned: 100,
-        four_peice_owned: 200
+        one_peice_owned => 25,
+        two_peice_owned => 50,
+        three_peice_owned => 100,
+        four_peice_owned => 200
       }
     }
   }
