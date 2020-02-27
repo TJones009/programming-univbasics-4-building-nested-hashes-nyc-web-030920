@@ -1,4 +1,4 @@
-def monoopoly
+def monopoly
   monopoly = {
     railroads: {}
   }
